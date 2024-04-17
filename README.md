@@ -16,8 +16,8 @@ docker-compose up --build
 #### Logs
  Выводит массив данных, операцию и результат применения операции к массиву
 ### RabbitMq
- Доступен по адресу http://localhost:15672/ \n
-user : user \n 
-password : psw
+ Доступен по адресу http://localhost:15672/
+- user : user
+- password : psw
 ## !!Про логи!!
  Логи у контейнеров pub и sub выводятся пачками спустя какое-то время :(
